@@ -1,0 +1,5 @@
+PAM Library for Erlang
+
+This comes from ProcessOne's ejabberd repository - http://github.com/processone/ejabberd/tree/master/src/pam/
+
+It's being used in Drink - http://github.com/danw/drink
