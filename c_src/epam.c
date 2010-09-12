@@ -18,11 +18,7 @@
  *
  */
 
-#ifdef __APPLE__
 #include <security/pam_appl.h>
-#else
-#include <pam_appl.h>
-#endif
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
